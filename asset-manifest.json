@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d4e54af9.chunk.css",
-    "main.js": "/static/js/main.e877471e.chunk.js",
-    "main.js.map": "/static/js/main.e877471e.chunk.js.map",
+    "main.js": "/static/js/main.b1128605.chunk.js",
+    "main.js.map": "/static/js/main.b1128605.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cdf10fbd.js",
     "runtime-main.js.map": "/static/js/runtime-main.cdf10fbd.js.map",
     "static/js/2.b15dd702.chunk.js": "/static/js/2.b15dd702.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.485f38d9.chunk.js.map": "/static/js/3.485f38d9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.d4e54af9.chunk.css.map": "/static/css/main.d4e54af9.chunk.css.map",
-    "static/js/2.b15dd702.chunk.js.LICENSE.txt": "/static/js/2.b15dd702.chunk.js.LICENSE.txt"
+    "static/js/2.b15dd702.chunk.js.LICENSE.txt": "/static/js/2.b15dd702.chunk.js.LICENSE.txt",
+    "static/media/pedobear_demon_eyes.98f8ccad.png": "/static/media/pedobear_demon_eyes.98f8ccad.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cdf10fbd.js",
     "static/js/2.b15dd702.chunk.js",
     "static/css/main.d4e54af9.chunk.css",
-    "static/js/main.e877471e.chunk.js"
+    "static/js/main.b1128605.chunk.js"
   ]
 }
